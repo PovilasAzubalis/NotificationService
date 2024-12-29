@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\azuba\\source\\repos\\NotificationService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{184D2C4E-5505-4C98-A8FC-023C33E2015A}|NotificationService\\NotificationService.csproj|c:\\users\\azuba\\source\\repos\\notificationservice\\notificationservice\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184D2C4E-5505-4C98-A8FC-023C33E2015A}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184D2C4E-5505-4C98-A8FC-023C33E2015A}|NotificationService\\NotificationService.csproj|c:\\users\\azuba\\source\\repos\\notificationservice\\notificationservice\\services\\providers\\twilioprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184D2C4E-5505-4C98-A8FC-023C33E2015A}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\services\\providers\\twilioprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184D2C4E-5505-4C98-A8FC-023C33E2015A}|NotificationService\\NotificationService.csproj|c:\\users\\azuba\\source\\repos\\notificationservice\\notificationservice\\services\\providers\\snsprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184D2C4E-5505-4C98-A8FC-023C33E2015A}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\services\\providers\\snsprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184D2C4E-5505-4C98-A8FC-023C33E2015A}|NotificationService\\NotificationService.csproj|c:\\users\\azuba\\source\\repos\\notificationservice\\notificationservice\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184D2C4E-5505-4C98-A8FC-023C33E2015A}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184D2C4E-5505-4C98-A8FC-023C33E2015A}|NotificationService\\NotificationService.csproj|c:\\users\\azuba\\source\\repos\\notificationservice\\notificationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184D2C4E-5505-4C98-A8FC-023C33E2015A}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184D2C4E-5505-4C98-A8FC-023C33E2015A}|NotificationService\\NotificationService.csproj|c:\\users\\azuba\\source\\repos\\notificationservice\\notificationservice\\services\\notificatotionretryjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184D2C4E-5505-4C98-A8FC-023C33E2015A}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\services\\notificatotionretryjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184D2C4E-5505-4C98-A8FC-023C33E2015A}|NotificationService\\NotificationService.csproj|c:\\users\\azuba\\source\\repos\\notificationservice\\notificationservice\\services\\notificationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184D2C4E-5505-4C98-A8FC-023C33E2015A}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\services\\notificationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184D2C4E-5505-4C98-A8FC-023C33E2015A}|NotificationService\\NotificationService.csproj|c:\\users\\azuba\\source\\repos\\notificationservice\\notificationservice\\services\\providers\\inotificationprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184D2C4E-5505-4C98-A8FC-023C33E2015A}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\services\\providers\\inotificationprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184D2C4E-5505-4C98-A8FC-023C33E2015A}|NotificationService\\NotificationService.csproj|c:\\users\\azuba\\source\\repos\\notificationservice\\notificationservice\\models\\notificationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184D2C4E-5505-4C98-A8FC-023C33E2015A}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\models\\notificationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184D2C4E-5505-4C98-A8FC-023C33E2015A}|NotificationService\\NotificationService.csproj|c:\\users\\azuba\\source\\repos\\notificationservice\\notificationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{184D2C4E-5505-4C98-A8FC-023C33E2015A}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184D2C4E-5505-4C98-A8FC-023C33E2015A}|NotificationService\\NotificationService.csproj|c:\\users\\azuba\\source\\repos\\notificationservice\\notificationservice\\notificationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{184D2C4E-5505-4C98-A8FC-023C33E2015A}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\notificationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SnsProvider.cs",
+              "DocumentMoniker": "C:\\Users\\azuba\\source\\repos\\NotificationService\\NotificationService\\Services\\Providers\\SnsProvider.cs",
+              "RelativeDocumentMoniker": "NotificationService\\Services\\Providers\\SnsProvider.cs",
+              "ToolTip": "C:\\Users\\azuba\\source\\repos\\NotificationService\\NotificationService\\Services\\Providers\\SnsProvider.cs",
+              "RelativeToolTip": "NotificationService\\Services\\Providers\\SnsProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:02:32.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TwilioProvider.cs",
+              "DocumentMoniker": "C:\\Users\\azuba\\source\\repos\\NotificationService\\NotificationService\\Services\\Providers\\TwilioProvider.cs",
+              "RelativeDocumentMoniker": "NotificationService\\Services\\Providers\\TwilioProvider.cs",
+              "ToolTip": "C:\\Users\\azuba\\source\\repos\\NotificationService\\NotificationService\\Services\\Providers\\TwilioProvider.cs",
+              "RelativeToolTip": "NotificationService\\Services\\Providers\\TwilioProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T17:58:44.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "INotificationProvider.cs",
+              "DocumentMoniker": "C:\\Users\\azuba\\source\\repos\\NotificationService\\NotificationService\\Services\\Providers\\INotificationProvider.cs",
+              "RelativeDocumentMoniker": "NotificationService\\Services\\Providers\\INotificationProvider.cs",
+              "ToolTip": "C:\\Users\\azuba\\source\\repos\\NotificationService\\NotificationService\\Services\\Providers\\INotificationProvider.cs",
+              "RelativeToolTip": "NotificationService\\Services\\Providers\\INotificationProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T17:58:20.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotificatotionRetryJob.cs",
+              "DocumentMoniker": "C:\\Users\\azuba\\source\\repos\\NotificationService\\NotificationService\\Services\\NotificatotionRetryJob.cs",
+              "RelativeDocumentMoniker": "NotificationService\\Services\\NotificatotionRetryJob.cs",
+              "ToolTip": "C:\\Users\\azuba\\source\\repos\\NotificationService\\NotificationService\\Services\\NotificatotionRetryJob.cs",
+              "RelativeToolTip": "NotificationService\\Services\\NotificatotionRetryJob.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:35:58.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\azuba\\source\\repos\\NotificationService\\NotificationService\\Program.cs",
+              "RelativeDocumentMoniker": "NotificationService\\Program.cs",
+              "ToolTip": "C:\\Users\\azuba\\source\\repos\\NotificationService\\NotificationService\\Program.cs",
+              "RelativeToolTip": "NotificationService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T15:03:10.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\azuba\\source\\repos\\NotificationService\\NotificationService\\Startup.cs",
+              "RelativeDocumentMoniker": "NotificationService\\Startup.cs",
+              "ToolTip": "C:\\Users\\azuba\\source\\repos\\NotificationService\\NotificationService\\Startup.cs",
+              "RelativeToolTip": "NotificationService\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:08:26.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "C:\\Users\\azuba\\source\\repos\\NotificationService\\NotificationService\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "NotificationService\\Controllers\\NotificationController.cs",
+              "ToolTip": "C:\\Users\\azuba\\source\\repos\\NotificationService\\NotificationService\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "NotificationService\\Controllers\\NotificationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T17:51:58.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotificationManager.cs",
+              "DocumentMoniker": "C:\\Users\\azuba\\source\\repos\\NotificationService\\NotificationService\\Services\\NotificationManager.cs",
+              "RelativeDocumentMoniker": "NotificationService\\Services\\NotificationManager.cs",
+              "ToolTip": "C:\\Users\\azuba\\source\\repos\\NotificationService\\NotificationService\\Services\\NotificationManager.cs",
+              "RelativeToolTip": "NotificationService\\Services\\NotificationManager.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAADwvwAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T17:57:14.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NotificationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\azuba\\source\\repos\\NotificationService\\NotificationService\\Models\\NotificationRequest.cs",
+              "RelativeDocumentMoniker": "NotificationService\\Models\\NotificationRequest.cs",
+              "ToolTip": "C:\\Users\\azuba\\source\\repos\\NotificationService\\NotificationService\\Models\\NotificationRequest.cs",
+              "RelativeToolTip": "NotificationService\\Models\\NotificationRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T19:51:31.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\azuba\\source\\repos\\NotificationService\\NotificationService\\appsettings.json",
+              "RelativeDocumentMoniker": "NotificationService\\appsettings.json",
+              "ToolTip": "C:\\Users\\azuba\\source\\repos\\NotificationService\\NotificationService\\appsettings.json",
+              "RelativeToolTip": "NotificationService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-29T19:53:15.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NotificationService.csproj",
+              "DocumentMoniker": "C:\\Users\\azuba\\source\\repos\\NotificationService\\NotificationService\\NotificationService.csproj",
+              "RelativeDocumentMoniker": "NotificationService\\NotificationService.csproj",
+              "ToolTip": "C:\\Users\\azuba\\source\\repos\\NotificationService\\NotificationService\\NotificationService.csproj",
+              "RelativeToolTip": "NotificationService\\NotificationService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-29T17:56:35.28Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 92,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
