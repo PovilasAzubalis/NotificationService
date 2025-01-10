@@ -1,5 +1,5 @@
 using NotificationService.Services;
-using NotificationService.Services.Providers;
+using NotificationService.Services.Providers.SMS;
 using Quartz;
 
 namespace NotificationService;
@@ -20,16 +20,16 @@ public class Startup
         });
 
         // Register providers
-        services.AddTransient<INotificationProvider, TwilioProvider>();
-        services.AddTransient<INotificationProvider, SnsProvider>();
+        services.AddTransient<ISmsService, TwilioProvider>();
+        services.AddTransient<ISmsService, SnsProvider>();
 
         // Register manager
         services.AddSingleton<NotificationManager>();
 
         // Configure Quartz
         services.AddQuartz(q => q.UseMicrosoftDependencyInjectionJobFactory());
-
         services.AddQuartzHostedService(q => q.WaitForJobsToComplete = true);
+
     }
 
     public static void Configure(IApplicationBuilder app, IWebHostEnvironment env)

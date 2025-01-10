@@ -1,29 +1,32 @@
 ﻿using NotificationService.Services.Providers;
+using NotificationService.Services.Providers.Email;
+using NotificationService.Services.Providers.SMS;
 using Quartz;
 
 namespace NotificationService.Services
 {
-    public class NotificationManager
+    public class NotificationManager : INotificationManager
     {
-        private readonly IEnumerable<INotificationProvider> _providers;
+        private readonly IEnumerable<ISmsService> _providers;
         private readonly ISchedulerFactory _schedulerFactory;
         private readonly IConfiguration _configuration;
+        private readonly IEmailService _emailService;
 
-        public NotificationManager(IEnumerable<INotificationProvider> providers, ISchedulerFactory schedulerFactory, IConfiguration configuration)
+        public NotificationManager(IEnumerable<ISmsService> providers, ISchedulerFactory schedulerFactory, IConfiguration configuration, IEmailService _emailService)
         {
             _providers = providers;
             _schedulerFactory = schedulerFactory;
             _configuration = configuration;
         }
 
-        public async Task<bool> SendNotificationAsync(string channel, string to, string message)
+        public async Task<bool> SendSmsAsync(string channel, string to, string message)
         {
             foreach (var provider in _providers)
             {
                 var success = await provider.SendAsync(to, message);
                 if (success)
                 {
-                    Console.WriteLine($"Notification sent via {provider.GetType().Name}");
+                    Console.WriteLine($"Sms sent via {provider.GetType().Name}");
                     return true;
                 }
             }
@@ -53,6 +56,11 @@ namespace NotificationService.Services
                 .Build();
 
             await scheduler.ScheduleJob(job, trigger);
+        }
+
+        public async Task SendEmailAsync(string Sender, string Receiver, string message)
+        {
+            await _emailService.SendEmailAsync(Sender, Receiver, message);
         }
     }
 }

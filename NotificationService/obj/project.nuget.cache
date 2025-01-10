@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "0vp7fG+areLkE5eDGdaZqF6l9z3fuUv9/lk0KSUJ8yOzJb2JJDKXnF9eOqNiSk0UqvR1L5z4SgRfJBZQzw9hBw==",
+  "dgSpecHash": "akFKxmxTuENkLj72n2UEG7G4NbMyWLDKKlARqPBsyjZujdQDhcvn0w9gtFp6QLk0oB7k+rzFyBRHWHkcAye/Dw==",
   "success": true,
   "projectFilePath": "C:\\Users\\azuba\\source\\repos\\NotificationService\\NotificationService\\NotificationService.csproj",
   "expectedPackageFiles": [
@@ -27,6 +27,8 @@
     "C:\\Users\\azuba\\.nuget\\packages\\quartz\\3.13.1\\quartz.3.13.1.nupkg.sha512",
     "C:\\Users\\azuba\\.nuget\\packages\\quartz.extensions.dependencyinjection\\3.13.1\\quartz.extensions.dependencyinjection.3.13.1.nupkg.sha512",
     "C:\\Users\\azuba\\.nuget\\packages\\quartz.extensions.hosting\\3.13.1\\quartz.extensions.hosting.3.13.1.nupkg.sha512",
+    "C:\\Users\\azuba\\.nuget\\packages\\sendgrid\\9.29.3\\sendgrid.9.29.3.nupkg.sha512",
+    "C:\\Users\\azuba\\.nuget\\packages\\starkbank-ecdsa\\1.3.3\\starkbank-ecdsa.1.3.3.nupkg.sha512",
     "C:\\Users\\azuba\\.nuget\\packages\\swashbuckle.aspnetcore\\7.2.0\\swashbuckle.aspnetcore.7.2.0.nupkg.sha512",
     "C:\\Users\\azuba\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\7.2.0\\swashbuckle.aspnetcore.swagger.7.2.0.nupkg.sha512",
     "C:\\Users\\azuba\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\7.2.0\\swashbuckle.aspnetcore.swaggergen.7.2.0.nupkg.sha512",

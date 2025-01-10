@@ -1,0 +1,9 @@
+Do I understand the code 1 - 100%:
+
+
+Models 100%
+Services/Providers 70 - 80%
+Services 60 - 70%
+Program 80%
+StartUp 90%
+

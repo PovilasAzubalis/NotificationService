@@ -43,3 +43,5 @@ C:\Users\azuba\source\repos\NotificationService\NotificationService\bin\Debug\ne
 C:\Users\azuba\source\repos\NotificationService\NotificationService\bin\Debug\net8.0\Quartz.Extensions.Hosting.dll
 C:\Users\azuba\source\repos\NotificationService\NotificationService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\azuba\source\repos\NotificationService\NotificationService\bin\Debug\net8.0\Twilio.dll
+C:\Users\azuba\source\repos\NotificationService\NotificationService\bin\Debug\net8.0\SendGrid.dll
+C:\Users\azuba\source\repos\NotificationService\NotificationService\bin\Debug\net8.0\StarkbankEcdsa.dll
