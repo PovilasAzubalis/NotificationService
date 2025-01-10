@@ -31,7 +31,7 @@ namespace NotificationService.Controllers
         {
             try
             {
-                await _notificationManager.SendEmailAsync(request.Sender, request.Message, request.Receiver);
+                await _notificationManager.SendEmailAsync(request.RecipientEmail, request.Message, request.Subject);
                 return Ok("Email sent successfully.");
             }
             catch (Exception ex)

@@ -58,9 +58,9 @@ namespace NotificationService.Services
             await scheduler.ScheduleJob(job, trigger);
         }
 
-        public async Task SendEmailAsync(string Sender, string Receiver, string message)
+        public async Task SendEmailAsync(string recipientEmail, string subject, string message)
         {
-            await _emailService.SendEmailAsync(Sender, Receiver, message);
+            await _emailService.SendEmailAsync(recipientEmail, subject, message);
         }
     }
 }

@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\azuba\\source\\repos\\NotificationService\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{184D2C4E-5505-4C98-A8FC-023C33E2015A}|NotificationService\\NotificationService.csproj|c:\\users\\azuba\\source\\repos\\notificationservice\\notificationservice\\services\\notificationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184D2C4E-5505-4C98-A8FC-023C33E2015A}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\services\\notificationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184D2C4E-5505-4C98-A8FC-023C33E2015A}|NotificationService\\NotificationService.csproj|c:\\users\\azuba\\source\\repos\\notificationservice\\notificationservice\\services\\providerservice\\email\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184D2C4E-5505-4C98-A8FC-023C33E2015A}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\services\\providerservice\\email\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184D2C4E-5505-4C98-A8FC-023C33E2015A}|NotificationService\\NotificationService.csproj|c:\\users\\azuba\\source\\repos\\notificationservice\\notificationservice\\services\\providerservice\\email\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184D2C4E-5505-4C98-A8FC-023C33E2015A}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\services\\providerservice\\email\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184D2C4E-5505-4C98-A8FC-023C33E2015A}|NotificationService\\NotificationService.csproj|c:\\users\\azuba\\source\\repos\\notificationservice\\notificationservice\\services\\inotificationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184D2C4E-5505-4C98-A8FC-023C33E2015A}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\services\\inotificationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184D2C4E-5505-4C98-A8FC-023C33E2015A}|NotificationService\\NotificationService.csproj|c:\\users\\azuba\\source\\repos\\notificationservice\\notificationservice\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184D2C4E-5505-4C98-A8FC-023C33E2015A}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184D2C4E-5505-4C98-A8FC-023C33E2015A}|NotificationService\\NotificationService.csproj|c:\\users\\azuba\\source\\repos\\notificationservice\\notificationservice\\models\\emailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184D2C4E-5505-4C98-A8FC-023C33E2015A}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\models\\emailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +47,84 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotificationManager.cs",
+              "DocumentMoniker": "C:\\Users\\azuba\\source\\repos\\NotificationService\\NotificationService\\Services\\NotificationManager.cs",
+              "RelativeDocumentMoniker": "NotificationService\\Services\\NotificationManager.cs",
+              "ToolTip": "C:\\Users\\azuba\\source\\repos\\NotificationService\\NotificationService\\Services\\NotificationManager.cs",
+              "RelativeToolTip": "NotificationService\\Services\\NotificationManager.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA7wD4AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T03:31:15.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "INotificationManager.cs",
+              "DocumentMoniker": "C:\\Users\\azuba\\source\\repos\\NotificationService\\NotificationService\\Services\\INotificationManager.cs",
+              "RelativeDocumentMoniker": "NotificationService\\Services\\INotificationManager.cs",
+              "ToolTip": "C:\\Users\\azuba\\source\\repos\\NotificationService\\NotificationService\\Services\\INotificationManager.cs",
+              "RelativeToolTip": "NotificationService\\Services\\INotificationManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T03:30:46.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailRequest.cs",
+              "DocumentMoniker": "C:\\Users\\azuba\\source\\repos\\NotificationService\\NotificationService\\Models\\EmailRequest.cs",
+              "RelativeDocumentMoniker": "NotificationService\\Models\\EmailRequest.cs",
+              "ToolTip": "C:\\Users\\azuba\\source\\repos\\NotificationService\\NotificationService\\Models\\EmailRequest.cs",
+              "RelativeToolTip": "NotificationService\\Models\\EmailRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T03:23:45.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "C:\\Users\\azuba\\source\\repos\\NotificationService\\NotificationService\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "NotificationService\\Controllers\\NotificationController.cs",
+              "ToolTip": "C:\\Users\\azuba\\source\\repos\\NotificationService\\NotificationService\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "NotificationService\\Controllers\\NotificationController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAswB0AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T03:23:35.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\azuba\\source\\repos\\NotificationService\\NotificationService\\Services\\ProviderService\\Email\\IEmailService.cs",
+              "RelativeDocumentMoniker": "NotificationService\\Services\\ProviderService\\Email\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\azuba\\source\\repos\\NotificationService\\NotificationService\\Services\\ProviderService\\Email\\IEmailService.cs",
+              "RelativeToolTip": "NotificationService\\Services\\ProviderService\\Email\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T03:21:13.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\azuba\\source\\repos\\NotificationService\\NotificationService\\Services\\ProviderService\\Email\\EmailService.cs",
+              "RelativeDocumentMoniker": "NotificationService\\Services\\ProviderService\\Email\\EmailService.cs",
+              "ToolTip": "C:\\Users\\azuba\\source\\repos\\NotificationService\\NotificationService\\Services\\ProviderService\\Email\\EmailService.cs",
+              "RelativeToolTip": "NotificationService\\Services\\ProviderService\\Email\\EmailService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T03:19:43.345Z",
+              "EditorCaption": ""
             }
           ]
         },

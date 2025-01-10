@@ -46,8 +46,8 @@ public class NotificationControllerTests
 
         var request = new EmailRequest
         {
-            Sender = "Email",
-            Receiver = "test@example.com",
+            RecipientEmail = "Email",
+            Subject = "test@example.com",
             Message = "Test message"
         };
 

@@ -15,9 +15,9 @@ namespace NotificationService.Services.Providers.Email
 
         public async Task SendEmailAsync(string recipientEmail, string subject, string message)
         {
-            var from = new EmailAddress("your_verified_sender_email@example.com", "Your Name");
+            var from = new EmailAddress("povilasazubalis@gmail.com", "MyDude");
             var to = new EmailAddress(recipientEmail);
-            var msg = MailHelper.CreateSingleEmail(from, to, subject, message, message);
+            var msg = MailHelper.CreateSingleEmail(from, to, subject, message, "");
             var response = await _sendGridClient.SendEmailAsync(msg);
             if (response.StatusCode != HttpStatusCode.OK)
             {
